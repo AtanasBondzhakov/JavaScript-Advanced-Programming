@@ -1,8 +1,4 @@
-# Exercise: Syntax, Functions and Statements
-
-Submit your solutions in the SoftUni judge system at:
-
-[https://alpha.judge.softuni.org/contests/syntax-functions-and-statements-exercise/2750](https://alpha.judge.softuni.org/contests/syntax-functions-and-statements-exercise/2750/practice).
+# Exercise Syntax, Functions and Statements
 
 1.  **Fruit**
 
@@ -104,10 +100,6 @@ The output must be the return date of the previous day in the format:
 |-------------|------------|
 | 2016, 9, 30 | 2016-9-29  |
 | 2015, 5, 10 | 2015-5-9   |
-
-### Hints
-
-- Use **Date()**
 
 4.  **Time to Walk**
 
@@ -316,10 +308,3 @@ The **output** should be a single line containing the converted string.
 | **Input**          | **Output**        |     | **Input** | **Output** |
 |--------------------|-------------------|-----|-----------|------------|
 | 'Hi, how are you?' | HI, HOW, ARE, YOU |     | 'hello'   | HELLO      |
-
-### Hints
-
-- You may need to use a [Regular
-  Expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
-  or check for all delimiters that can be found in a sentence (ex. ",",
-  " ", "!", "?" and so on).
